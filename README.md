@@ -82,5 +82,3 @@ python manage.py migrate
 
 # Запуск сервера
 python manage.py runserver
-
-Telegram (автор): @MiralAbbastada
