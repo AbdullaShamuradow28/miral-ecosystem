@@ -71,14 +71,18 @@ chat_backend/ <br/>
 ## 🚀 Быстрый старт
 
 # Клонируем проект
-git clone https://github.com/yourname/miral-ecosystem.git
-cd miral-ecosystem
+
+``` git clone https://github.com/AbdullaShamuradow28/miral-ecosystem.git ```
+``` cd miral-ecosystem ```
 
 # Установка зависимостей
-pip install -r requirements.txt
+
+``` pip install -r requirements.txt ```
 
 # Применение миграций
-python manage.py migrate
+
+``` python manage.py migrate ```
 
 # Запуск сервера
-python manage.py runserver
+
+``` python manage.py runserver ```
