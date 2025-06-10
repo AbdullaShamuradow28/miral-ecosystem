@@ -57,14 +57,14 @@
 
 ## 🗂️ Структура проекта
 
-chat_backend/
-├── emails/ # Почтовый сервис
-├── miral_cloud/ # Облачное хранилище
-├── miralmail/ # Основная конфигурация проекта
-├── pfps/ # Аватары пользователей
-├── pusher/ # Сервис уведомлений
-├── users/ # Miral Account (аккаунты)
-├── manage.py # Django-менеджер
+chat_backend/ <br/>
+├── emails/ # Почтовый сервис <br/>
+├── miral_cloud/ # Облачное хранилище <br/>
+├── miralmail/ # Основная конфигурация проекта <br/>
+├── pfps/ # Аватары пользователей <br/>
+├── pusher/ # Сервис уведомлений <br/>
+├── users/ # Miral Account (аккаунты) <br/>
+├── manage.py # Django-менеджер <br/>
 
 ---
 
