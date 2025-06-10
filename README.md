@@ -72,7 +72,7 @@ chat_backend/ <br/>
 
 # Клонируем проект
 
-``` git clone https://github.com/AbdullaShamuradow28/miral-ecosystem.git ```
+``` git clone https://github.com/AbdullaShamuradow28/miral-ecosystem.git ``` <br/>
 ``` cd miral-ecosystem ```
 
 # Установка зависимостей
