@@ -51,6 +51,7 @@
 - SQLite (на этапе разработки)
 - Django Sessions
 - REST API
+- Golang
 - Модульная архитектура (Django apps)
 
 ---
