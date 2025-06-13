@@ -1,0 +1,7 @@
+is_premium - is miral chat premium subscriber
+
+False/True
+
+registered_at
+unregistered_at
+reserve_user_url - if accound will be banned, user can recover this
