@@ -1,0 +1,7 @@
+package utils
+
+const (
+	PROJECTS_LIMIT = 5
+	STORAGE_MAX_SIZE = 100 * 1024 * 1024
+	FILE_UPLOAD_MAX_SIZE = 50 * 1024 * 1024
+)
